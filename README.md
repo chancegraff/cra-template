@@ -11,6 +11,7 @@ These dependencies have been installed:
 * eslint-plugin-simple-import-sort (v7.0.0)
 * prettier (v2.4.1)
 * styled-components (v5.3.3)
+* react-helmet (v6.1.0)
 
 ## ESLint and Prettier
 
